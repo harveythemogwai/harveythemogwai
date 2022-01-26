@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harveythemogwai
-- 👀 I’m interested in opendata initiatives and crowdsourcing solutions to problems facing our world.
+- 👀 I’m interested in free and accessible data that enables crowdsourcing solutions to problems facing our world.
 - 🌱 I’m currently learning all the time!
-- 💞️ I’m looking to collaborate on opendata projects and making data available to the citizen scientist and the general public.
+- 💞️ I’m looking to collaborate on open data projects that empower the citizen scientist and the general public.
 - 📫 I can be reached through LinkedIn https://www.linkedin.com/in/stephen-t-7986ba1a9/
 
 <!---
